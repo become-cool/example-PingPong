@@ -1,0 +1,12 @@
+{
+  "name": "become-model",
+  "version": "1.0.0",
+  "become": {
+    "uuid": "4f68da9b-b194-41b6-ab12-21ffe993f4eb",
+    "title": "PingPong",
+    "desc": "",
+    "createtime": 1609562276186,
+    "modifytime": 1609564371751,
+    "parts": 11
+  }
+}
